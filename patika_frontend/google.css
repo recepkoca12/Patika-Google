@@ -1,0 +1,54 @@
+header>nav>img{
+    margin-top: 90px;
+    margin-left: 500px;
+}
+section>article>p{
+    margin-top: 15px;
+    margin-left: 600px;
+}
+section>article>div>input{
+    margin-top: 16px;
+    margin-left: 500px;
+   
+}
+section>article>div>button{
+    margin-top: 1px;
+    margin-left: 600px;
+   
+}
+.second-button{
+    
+    margin-left: 10px;
+}
+.second-div{
+    background-color:aquamarine;
+    width: 300px;
+    height: 120px;
+    margin-left: 320px;
+    margin-top: 50px;
+   float: left;
+}
+.second-div>p,.second-div>h4{
+    margin-left: 90px;
+}
+.third-div{
+    background-color:darkcyan;
+    width: 250px;
+    height: 120px;
+    margin-top: 50px;
+        float: left;
+}
+.third-div>p{
+    margin-left: 90px;
+}
+.fourth-div{
+    background-color:darkseagreen;
+    width: 300px;
+    height: 120px;
+    margin-top: 50px;
+   float: left;
+}
+.last-p{
+    margin-top: 200px;
+    margin-left: 600px;
+}
